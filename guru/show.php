@@ -57,7 +57,7 @@
                         <input type="number" class="form-control" name="nip" value="<?php echo $nip; ?>" disabled>
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Nama</label>
+                        <label for="exampleInputEmail1">Nama Lengkap</label>
                         <input type="text" class="form-control" name="nama" value="<?php echo $nama; ?>" disabled>
                     </div>
                     <div class="form-group">
